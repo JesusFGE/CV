@@ -1,0 +1,55 @@
+body {background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{height: 200px; 
+border-radius: 50%;}
+
+header {display: flex;
+align-items: center;}
+
+aside {padding-left: 5%;
+padding-right: 5%;
+padding-top: 0%;
+padding-bottom: 0%;}
+
+.tarjetero{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.tarjeta1{
+    width: 35%;
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+;margin: 5%;
+padding: 10px 10px 10px 10px;
+border-radius: 15px;
+}
+
+.tarjeta2{
+    width: 33%;
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+;margin: 5%;
+padding: 10px 10px 10px 10px;
+border-radius: 15px;
+}
+
+.tarjeta3{
+    width: 50%;
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+;margin: 5%;
+padding: 10px 10px 10px 10px;
+border-radius: 15px;
+}
+
+.tarjetero2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
